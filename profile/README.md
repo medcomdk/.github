@@ -1,4 +1,4 @@
-![medcom_logo_2015](https://github.com/medcomdk/.github/blob/e26dd3117e705b007f0c9be18613001736d218c7/profile/medcom_logo_2015_avatar.png "MedCom")
+![medcom_logo_2015](https://github.com/medcomdk/.github/blob/6b9682ef913d17cd381d7f1394091916c4a9affb/profile/medcom_logo_2015_avatar.png "MedCom")
 
 # MedCom's GitHub Repository
 
