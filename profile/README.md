@@ -4,4 +4,6 @@
 
 Looking for MedCom's FHIR related repositories:
 
-[FHIR Landingpage](https://github.com/medcomdk/MedComLandingPage)
+|GitHub Repository||GitHubPage|
+|:---|:---|:---|
+| [FHIR Landingpage](https://github.com/medcomdk/MedComLandingPage) ||| [FHIR Landingpage (GithubPage)](https://medcomdk.github.io/MedComLandingPage/)
