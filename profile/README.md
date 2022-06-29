@@ -11,3 +11,7 @@ Looking for MedCom's FHIR related repositories:
 | [FHIR Landingpage](https://github.com/medcomdk/MedComLandingPage)         || [FHIR Landingpage (GithubPage)](https://medcomdk.github.io/MedComLandingPage/)|
 | [FHIR Governance](https://github.com/medcomdk/MedCom-FHIR-Communication)  || [FHIR Governance (GithubPage)](https://medcomdk.github.io/MedCom-FHIR-Communication)|
 | [FHIR HospitalNotification](https://github.com/medcomdk/dk-medcom-hospitalnotification)  || [FHIR HospitalNotification (GithubPage)](https://medcomdk.github.io/dk-medcom-hospitalnotification/)|
+| [FHIR CareCommunication](https://github.com/medcomdk/dk-medcom-carecommunication)  || [FHIR CareCommunication (GithubPage)](https://medcomdk.github.io/dk-medcom-carecommunication/)|
+| [FHIR Acknowledgment](https://github.com/medcomdk/dk-medcom-acknowledgment)  || [FHIR Acknowledgment (GithubPage)](https://medcomdk.github.io/dk-medcom-acknowledgment/)|
+| [MedCom FHIR Messaging](https://github.com/medcomdk/dk-medcom-messaging)  || [MedCom FHIR Messaging (GithubPage)](https://medcomdk.github.io/dk-medcom-messaging/)|
+| [MedCom FHIR Core](https://github.com/medcomdk/dk-medcom-core)  || [MedCom FHIR Core (GithubPage)](https://medcomdk.github.io/dk-medcom-core/)|
