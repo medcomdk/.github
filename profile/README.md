@@ -1,11 +1,10 @@
-![medcom fhir](https://github.com/medcomdk/.github/blob/main/profile/MedCom%2BHL7%20FHIR_4_1.png "MedCom FHIR")
 
 
 # MedCom's GitHub Repository
 
 Looking for MedCom's FHIR related repositories:
 
-![medcom_FHIRlogo](https://medcomdk.github.io/MedComLandingPage/medcom+fhir-logo.png "MedCom FHIR")
+![medcomfhirlogo](https://github.com/medcomdk/.github/blob/main/profile/MedCom%2BHL7%20FHIR_4_1.png "MedCom FHIR")
 
 |GitHub Repository||GitHubPage|IG|
 |:---|:---|:---|:---|
