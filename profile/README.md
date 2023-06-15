@@ -1,4 +1,4 @@
-![medcomlogo](profile/medcom_75x12.png "MedCom Logo)
+![medcomlogo]([profile/medcom_75x12.png](https://github.com/medcomdk/.github/blob/8263db76f096af1975b4ec37ed3b26bd16e6f216/profile/medcom_75x12.png) "MedCom Logo)
 
 # MedCom's GitHub Repository
 
